@@ -70,13 +70,6 @@ Price Statistics
 
 Rating Distribution
 
-Rating| Number of Books| Percentage
-1 star| 22| 22%
-2 stars| 19| 19%
-3 stars| 23| 23%
-4 stars| 17| 17%
-5 stars| 19| 19%
-
 - Most common rating: 3 stars, with 23 books.
 - Least common rating: 4 stars, with 17 books.
 
